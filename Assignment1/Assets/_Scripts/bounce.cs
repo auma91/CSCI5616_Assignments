@@ -14,6 +14,6 @@ public class bounce : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        this.transform.localPosition = Math.Sign();
+        //this.transform.localPosition = Math.Sign();
     }
 }
