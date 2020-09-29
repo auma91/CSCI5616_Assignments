@@ -892,6 +892,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   rate_of_fire: 1
   bullet: {fileID: 5180706608235317439, guid: e5a150018dba2bb49afc1a15d5f73da8, type: 3}
+  bullets: []
 --- !u!1 &1839583525
 GameObject:
   m_ObjectHideFlags: 0
